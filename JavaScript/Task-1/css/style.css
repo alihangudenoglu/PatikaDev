@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;    
+}
+body{
+    background-color: rgb(63, 63, 63);
+}
+h1,h3,#myClock{
+    color: hwb(34 0% 0% / 1);
+    font-family: 'Courier New', Courier, monospace;
+}
